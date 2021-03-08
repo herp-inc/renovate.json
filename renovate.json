@@ -4,5 +4,6 @@
   "prCreation": "not-pending",
   "separateMultipleMajor": true,
   "stabilityDays": 14,
+  "timezone": "Asia/Tokyo",
   "updateInternalDeps": true
 }
