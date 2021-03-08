@@ -1,0 +1,7 @@
+{
+  "extends": ["config:base"],
+  "ignoreDeps": ["herpism"],
+  "separateMultipleMajor": true,
+  "stabilityDays": 14,
+  "updateInternalDeps": true
+}
