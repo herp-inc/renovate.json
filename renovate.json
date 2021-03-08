@@ -1,6 +1,7 @@
 {
   "extends": ["config:base"],
   "ignoreDeps": ["herpism"],
+  "prCreation": "not-pending",
   "separateMultipleMajor": true,
   "stabilityDays": 14,
   "updateInternalDeps": true
