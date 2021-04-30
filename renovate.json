@@ -1,6 +1,10 @@
 {
   "extends": ["config:base"],
   "ignoreDeps": ["herpism"],
+  "patch": {
+    "groupName": "dependencies (patch)",
+    "groupSlug": "patch"
+  },
   "prCreation": "not-pending",
   "separateMultipleMajor": true,
   "stabilityDays": 14,
