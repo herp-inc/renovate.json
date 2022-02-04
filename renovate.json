@@ -12,6 +12,7 @@
     "groupSlug": "patch",
     "stabilityDays": 3
   },
+  "platformAutomerge": true,
   "prCreation": "not-pending",
   "separateMultipleMajor": true,
   "timezone": "Asia/Tokyo",
