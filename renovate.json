@@ -8,6 +8,13 @@
   "minor": {
     "stabilityDays": 7
   },
+    "packageRules": [
+    {
+      "allowedVersions": "/^(12|14|16)\\./",
+      "groupName": "Node.js",
+      "matchPackageNames": ["node"]
+    }
+  ],
   "patch": {
     "groupName": "dependencies (patch)",
     "groupSlug": "patch",
