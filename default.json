@@ -3,6 +3,9 @@
   "automerge": true,
   "extends": ["config:base"],
   "ignoreDeps": ["herpism"],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
   "major": {
     "stabilityDays": 14
   },
