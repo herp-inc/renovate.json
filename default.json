@@ -12,7 +12,7 @@
   "minor": {
     "stabilityDays": 7
   },
-    "packageRules": [
+  "packageRules": [
     {
       "allowedVersions": "/^(12|14|16)\\./",
       "groupName": "Node.js",
