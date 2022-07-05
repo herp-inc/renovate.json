@@ -13,6 +13,11 @@
   },
   "packageRules": [
     {
+      "enabled": false,
+      "matchManagers": ["npm"],
+      "matchPackagePatterns": ["^@herp-inc-private/"]
+    },
+    {
       "allowedVersions": "/^(12|14|16)\\./",
       "groupName": "Node.js",
       "matchPackageNames": ["node"]
