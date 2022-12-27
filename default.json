@@ -20,7 +20,7 @@
     {
       "allowedVersions": "/^(14|16|18)\\./",
       "groupName": "Node.js",
-      "matchPackageNames": ["node"]
+      "matchPackageNames": ["@types/node", "node"]
     }
   ],
   "patch": {
