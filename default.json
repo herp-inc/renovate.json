@@ -30,6 +30,7 @@
     "stabilityDays": 3
   },
   "platformAutomerge": true,
+  "postUpdateOptions": ["yarnDedupeFewer"],
   "prCreation": "not-pending",
   "separateMultipleMajor": true,
   "timezone": "Asia/Tokyo",
