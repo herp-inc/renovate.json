@@ -3,6 +3,7 @@
   "automerge": true,
   "extends": ["config:base"],
   "gitIgnoredAuthors": ["41898282+github-actions[bot]@users.noreply.github.com"],
+  "labels": ["dependencies"],
   "lockFileMaintenance": {
     "enabled": true
   },
