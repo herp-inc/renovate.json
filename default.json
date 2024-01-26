@@ -8,10 +8,10 @@
     "enabled": true
   },
   "major": {
-    "stabilityDays": 14
+    "minimumReleaseAge": "18 days"
   },
   "minor": {
-    "stabilityDays": 7
+    "minimumReleaseAge": "9 days"
   },
   "packageRules": [
     {
@@ -28,7 +28,7 @@
   "patch": {
     "groupName": "dependencies (patch)",
     "groupSlug": "patch",
-    "stabilityDays": 3
+    "minimumReleaseAge": "6 days"
   },
   "platformAutomerge": true,
   "postUpdateOptions": ["yarnDedupeFewer"],
