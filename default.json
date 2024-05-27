@@ -23,6 +23,10 @@
       "allowedVersions": "/^(18|20)\\./",
       "groupName": "Node.js",
       "matchPackageNames": ["@types/node", "node"]
+    },
+    {
+      "groupName": "@herp-inc/eslint-config monorepo",
+      "matchPackagePrefixes": ["@herp-inc/eslint-config"]
     }
   ],
   "patch": {
