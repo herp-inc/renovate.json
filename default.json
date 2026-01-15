@@ -20,7 +20,7 @@
       "matchPackagePatterns": ["^@herp-inc-private/"]
     },
     {
-      "allowedVersions": "/^(18|20)\\./",
+      "allowedVersions": "/^(20|22|24)\\./",
       "groupName": "Node.js",
       "matchPackageNames": ["@types/node", "node"]
     },
